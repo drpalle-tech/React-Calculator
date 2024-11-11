@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import Wrapper from './Wrapper';
-import Screen from './Screen';
-import ButtonBox from './ButtonBox';
-import Button from './Button';
+import Wrapper from './components/Wrapper';
+import Screen from './components/Screen';
+import ButtonBox from './components/ButtonBox';
+import Button from './components/Button';
 
 const btnValues = [
   ["C", "+-", "%", "/"],
